@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Igor! ✨
 
 - 🌐 Skills only **HTML**, **CSS** and **JavaScript** for now..
-- 🚀 Currently learning **Linux**, **JavaScript**, **Python**, **Inteligência Artificial** and others.
+- 🚀 Currently learning **Linux**, **JavaScript**, **Python**, **Artifial Intelligence/IA** and others.
 - 🔧 Interested in web development, data science and technology.
 
 ## 🛠️ Languages ​​and Tools
@@ -12,6 +12,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=ai&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## ⚡ GitHub Stats
 
