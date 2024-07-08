@@ -19,7 +19,7 @@
 
 ## 📊 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorUsername&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoStein&layout=compact&theme=radical)
 
 ## 📫 Contato
 
