@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o Igor! ✨
+# 👋 Hello there, I'm Igor! ✨
 
-- 🌐 Competências em **HTML** e **CSS**.
-- 🚀 Atualmente aprendendo **Linux**, **JavaScript**, **Python**, **Inteligência Artificial** e outros.
-- 🔧 Interessado em desenvolvimento web, ciência de dados e tecnologia.
+- 🌐 Skills only **HTML**, **CSS** and **JavaScript** for now..
+- 🚀 Currently learning **Linux**, **JavaScript**, **Python**, **Inteligência Artificial** and others.
+- 🔧 Interested in web development, data science and technology.
 
-## 🛠️ Languages e Ferramentas
+## 🛠️ Languages ​​and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
