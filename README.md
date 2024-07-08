@@ -15,7 +15,7 @@
 
 ## ⚡ GitHub Stats
 
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorUsername&show_icons=true&theme=radical)
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuenoStein&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
