@@ -1,10 +1,10 @@
-# 👋 Hello there, I'm Igor! ✨
+# Hello there, I'm Igor
 
-- 🌐 Skills only **HTML**, **CSS** and **JavaScript** for now..
-- 🚀 Currently learning **Linux**, **JavaScript**, **Python**, **Artifial Intelligence/IA** and others.
-- 🔧 Interested in web development, data science and technology.
+- Skills only **HTML**, **CSS** and **JavaScript** for now..
+-  Currently learning **Linux**, **JavaScript**, **Python**, **Artifial Intelligence/IA** and others.
+-  Interested in web development, data science and technology.
 
-## 🛠️ Languages ​​and Tools
+## 🛠 Languages ​​and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,11 +18,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## ⚡ GitHub Stats
+##  GitHub Stats
 
 ![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuenoStein&show_icons=true&theme=radical)
 
-## 📊 Most Used Languages
+##  Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoStein&layout=compact&theme=radical)
 
