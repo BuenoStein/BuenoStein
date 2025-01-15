@@ -30,7 +30,7 @@
 
 ### 🏆 GitHub Profile Trophy | Troféus do GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BuenoStein&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ### 📊 GitHub Stats | Estatísticas do GitHub
