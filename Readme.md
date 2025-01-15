@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=Igor%20Bueno&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20|%20Cloud%20Technology%20Enthusiast&descAlignY=50&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=Igor%20Bueno&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Back-end%20Developer%20|%20Cloud%20Technology%20&descAlignY=50&descSize=18">
 
 <p align="center">
   <i>🚀 Passionate about technology and cloud computing, always eager to learn and create innovative solutions.</i>
