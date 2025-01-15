@@ -24,6 +24,7 @@
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
 </div>
 
 ---
