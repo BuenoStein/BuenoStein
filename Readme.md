@@ -35,13 +35,13 @@
 
 ### 📊 GitHub Stats | Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuenoStein&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoStein&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BuenoStein&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 ### 📈 Contribution Graph | Gráfico de Contribuições
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuenoStein&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 ### 🎓 Certifications | Certificações
 - Microsoft Azure Fundamentals (AZ-900)
