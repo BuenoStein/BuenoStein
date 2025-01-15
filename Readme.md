@@ -15,6 +15,7 @@
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
 </div>
 
 ### 📚 Learning | Aprendendo
