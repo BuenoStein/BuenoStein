@@ -1,28 +1,51 @@
-# Hello there, I'm Igor
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=Igor%20Bueno&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20|%20Cloud%20Technology%20Enthusiast&descAlignY=50&descSize=18">
 
-- Skills only **HTML**, **CSS** and **JavaScript** for now..
--  Currently learning **Linux**, **JavaScript**, **Python**, **Artifial Intelligence/IA** and others.
--  Interested in web development, data science and technology.
+<p align="center">
+  <i>🚀 Passionate about technology and cloud computing, always eager to learn and create innovative solutions.</i>
+</p>
 
-## 🛠 Languages ​​and Tools
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=ai&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚡ Tech Stack | Stack de Tecnologias
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure"/></a>
+</div>
 
+### 📚 Learning | Aprendendo
+<div align="center">
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>
+</div>
 
-##  GitHub Stats
+---
 
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuenoStein&show_icons=true&theme=radical)
+### 🏆 GitHub Profile Trophy | Troféus do GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
 
+### 📊 GitHub Stats | Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
 
-## 📫 Contact
+### 📈 Contribution Graph | Gráfico de Contribuições
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-de-souza-3b0b67267)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bueno.igr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsbueno010@gmail.com)
+### 🎓 Certifications | Certificações
+- Microsoft Azure Fundamentals (AZ-900)
+- Google Cloud Skills Boost
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
+</div>
