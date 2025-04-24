@@ -32,7 +32,9 @@
 
 ### 🏆 GitHub Profile Trophy | Troféus do GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BuenoStein&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{buenostein}/count.svg" /></p> 
+  <br>
 </div>
 
 ### 📊 GitHub Stats | Estatísticas do GitHub
