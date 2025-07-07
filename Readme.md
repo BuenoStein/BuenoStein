@@ -3,14 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=Igor%20Bueno&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Back-end%20Developer%20|%20Cloud%20Technology&descAlignY=50&descSize=18" />
 
 <p>
-  <i>🚀 Apaixonado por tecnologia e computação em nuvem, sempre buscando aprender e criar soluções inovadoras.</i>
+  <i> Sempre em constante Aprendizado.</i>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Currently Learning | Aprendendo
+###  Currently Learning | Aprendendo
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,docker,mongodb,mysql,azure,gcp,linux" />
   <img src="https://img.shields.io/badge/Cosmos%20DB-Informational?logo=microsoftazure&logoColor=white&color=2D79B7&style=for-the-badge" />
