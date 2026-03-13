@@ -35,6 +35,7 @@
 ### 🎓 Certifications
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Azure Developer Associate (AZ-204)
+- Microsoft Fabric Associate Data Engineer (DP-700)
 - Google Cloud Skills Boost (Labs & Quests)
 
 ---
